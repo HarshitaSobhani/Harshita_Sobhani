@@ -1,6 +1,6 @@
 ### Harshita Sobhani
 
-I build end-to-end ML systems — from raw data to a working, deployed demo — spanning computer vision, recommender systems, and retrieval/LLM pipelines, with the backend APIs to serve them. I care about honest evaluation over polished-looking numbers: every project reports what its metrics do and don't prove.
+I build end-to-end ML and full-stack systems — from raw data to a working, deployed product — spanning computer vision, recommender systems, retrieval/LLM pipelines, and business-operations apps, with the backend APIs and frontends to serve them. I care about honest evaluation over polished-looking numbers: every project reports what its metrics do and don't prove.
 
 **Currently exploring:** retrieval-augmented generation and real-time vision systems, with an eye toward production concerns (auth, CI, deployment) rather than notebook-only prototypes.
 
